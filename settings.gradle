@@ -1,0 +1,2 @@
+rootProject.name = "DemoBlob"
+include ':app'
